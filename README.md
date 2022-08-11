@@ -4,7 +4,7 @@
 
 # Goal
 
-This project aims at accelerating radiative transfer simulation with physics informed neural network. For this, a CNN with an additional ODE loss is trained on a simulation. The end goal is to be able to produce highly detailed large scale simulations at lower computational cost.
+This project aims at accelerating radiative transfer simulation with physics informed neural network. For this, a CNN with an additional ODE loss is trained on a $\mbox{C}^2\mbox{-Ray}$ simulation. The end goal is to be able to produce highly detailed large scale simulations at lower computational cost.
 
 # Repository structure
 
