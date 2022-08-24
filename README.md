@@ -6,6 +6,10 @@
 
 This project aims at accelerating radiative transfer simulation with physics informed neural network. For this, a CNN with an additional ODE loss is trained on a $\mbox{C}^2\mbox{-Ray}$ simulation. The end goal is to be able to produce highly detailed large scale simulations at lower computational cost by training on lower scale simulations.
 
+# Network architecture
+
+<img src="pinion_scheme.png" alt="Scheme of PINION" title="Employee Data title">
+
 # Repository structure
 
 At the root, one can find several Python scripts that contain definition of methods and classes that are used in the training. In particular `central_cnn.py` contains the definition of the neural network used in this project.
