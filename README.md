@@ -27,3 +27,6 @@ This project uses Python3 and the packages are listed in `requirements.txt`. Thi
 # What does PINION stands for ?
 
 PINION is the acronym for Physics Informed Neural network for reIONization.
+
+# Links
+Pre-print: https://github.com/epfl-radio-astro/PINION
